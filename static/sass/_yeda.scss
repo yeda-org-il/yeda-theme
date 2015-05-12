@@ -1,21 +1,3 @@
-//Main Color Variables
-
-
-//Secondary Color Variables
-
-$secondary: #2c3755;
-$secondary-50: lighten($secondary, 9%);
-$secondary-25: lighten($secondary, 20%); //Important Heading BG Color 
-
-//-----------------
-//  Theme Element Assignments
-//-----------------
-
-$header-bg: transparentize(lighten($secondary, 18.5%), .25);
-$courseware-header-image: none;
-$courseware-header-bg: transparentize(lighten($secondary, 18.5%), .25);
-$footer-bg: $secondary-25;
-
 //-----------------
 //  CSS BG Images
 //-----------------
